@@ -5,4 +5,4 @@ const LivingRoom = (props) => {
     </div>
   );
 }
-export default LivingRoom;
+export default LivingRoom
